@@ -1,12 +1,10 @@
 <a href="https://github.com/YanisCorrea?tab=repositories"><-- Back to my REPOSITORIES page</a>
   
 # BusTracker
-BusTracker Excercise Repository. This excercise was part of a tasks for the MIT xPRO program: Web Development with JavaScript.
+BusTracker Excercise Repository. This excercise was part of a tasks for the MIT xPRO program: Web Development with JavaScript. Tracking buses on a Boston city map using HTML, CSS, and JavaScript.For this excercise I worked with the stops between Harvard University and MIT.
+
   ![image](https://user-images.githubusercontent.com/56746958/134923097-afb745ca-5098-40e2-92d2-745c5552bd00.png)
 
-
-## Description
-Tracking buses on a Boston city map using HTML, CSS, and JavaScript.For this excercise I worked with the stops between Harvard University and MIT.
 
 ## Installation
 No installation needed.
